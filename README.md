@@ -1,6 +1,6 @@
 # mantra
 
-A new Flutter project.
+پروژه فلاتر برای بخش اوستاخوانی مانتره.
 
 ## Getting Started
 
@@ -15,3 +15,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # mantra
+
+برای تست روی سایز تبلت ترجیحا امتحان کنید.
+از سایز تبلت کوچک تر مشکل داره!
